@@ -20,7 +20,7 @@ header .nav-link {
 }
 
 header .nav-link:hover {
-    color: #00bfff;
+    color: #000000;
 }
 
 main {
@@ -28,5 +28,9 @@ main {
 }
 
 section {
-    margin-bottom: 
+    margin-bottom: 2;
+    background-color: #edeff2;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+
 }
